@@ -19,3 +19,5 @@ How to run the Basic Test with Allure report
  pytest tests/tests/crud/test_create_booking.py  --alluredir=allure_result -s
 
 PyATB4xA
+
+![API_Framework_report](https://github.com/user-attachments/assets/e2113779-226e-4fd5-b4a7-22dbf0c18693)
